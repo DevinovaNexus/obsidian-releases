@@ -74800,5 +74800,12 @@
     "author": "Jonas Flint",
     "description": "Switch vaults in the current window instead of opening a new one. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "jonasflint/same-window-vault-switcher"
+  },
+  {
+    "id": "keymask",
+    "name": "KeyMask",
+    "author": "DevinovaNexus",
+    "description": "Zero-plaintext credential protection & interactive UI masking for sensitive secrets in Obsidian.",
+    "repo": "DevinovaNexus/obsidian-keymask"
   }
 ]
